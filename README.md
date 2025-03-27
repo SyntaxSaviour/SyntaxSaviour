@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farjan Alam</h1>
+[![MasterHead](https://vsgif.com/gif/3568302)](https://github.com/SyntaxSaviour)
 <h3 align="center">An aspiring Machine Learner & Data Scientist</h3>
 
 - 📫 How to reach me **alamfarzann@gmail.com**
