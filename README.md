@@ -78,19 +78,7 @@ I am a passionate AI & ML Enthusiast <img src="https://media.giphy.com/media/WUl
   <!-- Pandas -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
 
-  <!-- Scikit-learn -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>
-
-  <!-- GeoPandas -->
-  <img src="https://geopandas.org/en/stable/_static/geopandas.svg" title="GeoPandas" alt="GeoPandas" width="40" height="40"/>
-
-  <!-- Matplotlib -->
-  <img src="https://matplotlib.org/_static/images/logo2.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>
-
-  <!-- Streamlit -->
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>
-
-  <!-- Jupyter -->
+   <!-- Jupyter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
 
   <!-- Git -->
@@ -101,6 +89,18 @@ I am a passionate AI & ML Enthusiast <img src="https://media.giphy.com/media/WUl
 
   <!-- TensorFlow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>
+
+  <!-- Scikit-learn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>
+
+  <img src="https://geopandas.org/en/stable/_static/geopandas.svg" title="GeoPandas" alt="GeoPandas" width="40" height="40"/>
+
+  <!-- Matplotlib -->
+  <img src="https://matplotlib.org/_static/images/logo2.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>
+
+  <!-- Streamlit -->
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>
+  
 </div>
 
 
