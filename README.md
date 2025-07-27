@@ -106,7 +106,7 @@ I am a passionate AI & ML Enthusiast <img src="https://media.giphy.com/media/WUl
 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=SyntaxSaviour
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SyntaxSaviour&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
