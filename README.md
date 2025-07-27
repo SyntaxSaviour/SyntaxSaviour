@@ -122,13 +122,11 @@ I am a passionate AI & ML Enthusiast <img src="https://media.giphy.com/media/WUl
 
 <div/>
 
+---
 
 ### 📧 Connect with me :
 
-<div>
-
-
-<p align="center">
+<div align="center">
   <!-- Email -->
   <a href="mailto:farjanalam16@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -168,9 +166,8 @@ I am a passionate AI & ML Enthusiast <img src="https://media.giphy.com/media/WUl
   <a href="https://discordapp.com/users/JoeXOTicBaka">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-</p>
 
-<div/>
+</div>
 
 
 
