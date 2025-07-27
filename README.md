@@ -36,13 +36,15 @@ I am a passionate AI & ML Enthusiast <img src="https://media.giphy.com/media/WUl
 
 🔍 Exploring the world of Machine Learning, Data Science, and AI Research.
 
-🛠️ Building impactful projects like SeismoHack – an AI-based earthquake risk mapping system.
+🛠️ Working on innovative, research-driven projects focused on real-world impact and policy-level change.
 
-📚 I love working with Python, C++, and MySQL, and solving problems on Kaggle.
+📚 Proficient in Python, C++, MySQL, and experienced with tools like Pandas, Scikit-learn, Matplotlib, and GeoPandas for data-driven development.
 
 📝 Occasionally dive into technical blogging and open-source contributions.
 
 🎯 Member of multiple college societies & always looking for meaningful collaborations.
+
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farjan-alam-926b22218/)
 
 
 
