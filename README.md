@@ -20,31 +20,6 @@
   <a href="https://www.instagram.com/alamfarzann/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/farjanalam">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/farjanalam16">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/SyntaxSaviour">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-
-  <!-- Twitter / X -->
-  <a href="https://twitter.com/fajanalam16">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-
-  <!-- Discord -->
-  <a href="https://discordapp.com/users/JoeXOTicBaka">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
 </p>
 
 
