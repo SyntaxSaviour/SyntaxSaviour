@@ -30,4 +30,35 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a passionate AI & ML Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+🧠 Currently pursuing B.Tech in AI & ML at SRM University.
+
+🔍 Exploring the world of Machine Learning, Data Science, and AI Research.
+
+🛠️ Building impactful projects like SeismoHack – an AI-based earthquake risk mapping system.
+
+📚 I love working with Python, C++, and MySQL, and solving problems on Kaggle.
+
+📝 Occasionally dive into technical blogging and open-source contributions.
+
+🎯 Member of multiple college societies & always looking for meaningful collaborations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
