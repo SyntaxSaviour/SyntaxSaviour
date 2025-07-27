@@ -50,7 +50,7 @@ I am a passionate AI & ML Enthusiast <img src="https://media.giphy.com/media/WUl
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="center">
+<div>
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 
