@@ -44,7 +44,8 @@ I am a passionate AI & ML Enthusiast <img src="https://media.giphy.com/media/WUl
 
 🎯 Member of multiple college societies & always looking for meaningful collaborations.
 
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farjan-alam-926b22218/)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farjan-alam-926b22218/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/alamfarzann/)
+
 
 
 
