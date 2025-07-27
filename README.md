@@ -93,7 +93,8 @@ I am a passionate AI & ML Enthusiast <img src="https://media.giphy.com/media/WUl
   <!-- Scikit-learn -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>
 
-  <img src="https://geopandas.org/en/stable/_static/geopandas.svg" title="GeoPandas" alt="GeoPandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/_static/geopandas_icon.svg" title="GeoPandas" alt="GeoPandas" width="40" height="40" style="background-color:white; border-radius:5px; padding:2px;"/>
+
 
   <!-- Matplotlib -->
   <img src="https://matplotlib.org/_static/images/logo2.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>
